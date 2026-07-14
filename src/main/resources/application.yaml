@@ -7,11 +7,11 @@ spring:
 
 vendors:
   amazon:
-    base-url: http://localhost:8080
+    base-url: http://localhost:8082
   flipkart:
-    base-url: http://localhost:8080
+    base-url: http://localhost:8082
   walmart:
-    base-url: http://localhost:8080
+    base-url: http://localhost:8082
   connection-timeout-ms: 5000
   read-timeout-ms: 5000
   cache:
